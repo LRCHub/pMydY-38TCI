@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぱらいそ",
+  "base_artist": "Tele",
+  "createdAt": "2025-12-12T04:57:53.351955Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぱらいそ",
+      "artist": "Tele",
+      "has_synced": false,
+      "path": "select/pl_01_ぱらいそ_Tele.txt"
+    }
+  ]
+}
